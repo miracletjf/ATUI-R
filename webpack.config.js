@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+  mode: 'development',
   entry: './lib/index.tsx',
   output: {
     filename: 'atui.js',
