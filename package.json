@@ -1,0 +1,8 @@
+{
+  "name": "at-ui-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:miracletjf/ATUI-R.git",
+  "author": "miracletjf <1398988546@qq.com>",
+  "license": "MIT"
+}
